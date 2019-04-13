@@ -14,14 +14,14 @@
   </url>
   
   <url>
-    <loc>https://gfting.dev/writing/my-first-post/</loc>
+    <loc>https://gfting.dev/posts/</loc>
     <lastmod>2019-04-13T14:33:37-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gfting.dev/writing/</loc>
+    <loc>https://gfting.dev/posts/whoami/</loc>
     <lastmod>2019-04-13T14:33:37-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

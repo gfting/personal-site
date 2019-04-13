@@ -5,6 +5,7 @@
     <link>https://gfting.dev/</link>
     <description>Recent content on Gabriel Ting</description>
     <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 13 Apr 2019 14:43:50 -0500</lastBuildDate>
     
 	<atom:link href="https://gfting.dev/index.xml" rel="self" type="application/rss+xml" />
@@ -16,16 +17,16 @@
       <pubDate>Sat, 13 Apr 2019 14:43:50 -0500</pubDate>
       
       <guid>https://gfting.dev/about/</guid>
-      <description></description>
+      <description>Hi, I&amp;rsquo;m Gabriel Ting, a sophomore at Vanderbilt University double majoring in Computer Science and Asian Studies. This is my blog, a space to put things that are an intersection of personal and professional interests. I built this blog with Hugo and Netlify. As I move through my life, I hope that this will serve as a record for what I&amp;rsquo;ve done, places I&amp;rsquo;ve been, and what I hope to do.</description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>https://gfting.dev/writing/my-first-post/</link>
+      <title>whoami</title>
+      <link>https://gfting.dev/posts/whoami/</link>
       <pubDate>Sat, 13 Apr 2019 14:33:37 -0500</pubDate>
       
-      <guid>https://gfting.dev/writing/my-first-post/</guid>
-      <description></description>
+      <guid>https://gfting.dev/posts/whoami/</guid>
+      <description>For a professional, career-oriented version of who I am:  About Page My GitHub My résumé   otherwise, blog init My name is Gabriel Ting, and I begin this blog at a pivotal moment in my career. I just officially submitted to transfer to the School of Engineering, despite completing many liberal arts requirements. Not only that, but I also had previously written a 25-page research paper for the College Honors Scholars program on Aum Shinrikyo, and am only 2 classes away from finishing my Asian Studies second (now tertiary) major.</description>
     </item>
     
     <item>
