@@ -66,8 +66,8 @@ disableHugoGeneratorInject = false
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   justifyContent = false  # Set "text-align: justify" to .content.
 
-  # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
+  # Directory name of your blog content (default is `content/writing`)
+  contentTypeName = "writing"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
   themeColor = "#252627"
@@ -93,15 +93,19 @@ disableHugoGeneratorInject = false
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-[languages]
-  [languages.en]
-    subtitle = "Gabriel Ting"
+#[languages] 
+  #[languages.en]
+    #subtitle = "Gabriel Ting" : this is for adding a subtitle in tabs
 [menu]
   [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "/about"
   [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+    identifier = "resume"
+    name       = "Résumé"
+    url        = "/resume"
+  [[menu.main]]
+    identifier = "writing"
+    name       = "Writing"
+    url        = "/writing"
