@@ -3,17 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gfting.dev/about/</loc>
+    <lastmod>2019-04-13T14:43:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gfting.dev/</loc>
+    <lastmod>2019-04-13T14:43:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gfting.dev/writing/my-first-post/</loc>
+    <lastmod>2019-04-13T14:33:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gfting.dev/writing/</loc>
+    <lastmod>2019-04-13T14:33:37-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://gfting.dev/index.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gfting.dev/resume/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gfting.dev/</loc>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writings on Gabriel Ting</title>
+    <link>https://gfting.dev/writing/</link>
+    <description>Recent content in Writings on Gabriel Ting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 13 Apr 2019 14:33:37 -0500</lastBuildDate>
+    
+	<atom:link href="https://gfting.dev/writing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://gfting.dev/writing/my-first-post/</link>
+      <pubDate>Sat, 13 Apr 2019 14:33:37 -0500</pubDate>
+      
+      <guid>https://gfting.dev/writing/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
