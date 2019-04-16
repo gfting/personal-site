@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = "Gabriel, gfting, vanderbilt, Gabriel Ting, computer, science, blog"
   images = [""]
 
-  homeSubtitle = "Sophomore CS Student at Vanderbilt University"
+  homeSubtitle = "Sophomore Computer Science, Applied Math, and Asian Studies Triple Major at Vanderbilt University"
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
