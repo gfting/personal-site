@@ -74,6 +74,8 @@ disableHugoGeneratorInject = false
   defaultTheme = "dark"
   themeColor = "#252627"
 
+  gitUrl = "https://github.com/gfting/"
+
   # Social icons
   [[params.social]]
     name = "email"
