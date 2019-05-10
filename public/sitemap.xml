@@ -3,19 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gfting.dev/</loc>
+    <lastmod>2019-05-09T03:48:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gfting.dev/posts/juni-posts/</loc>
+    <lastmod>2019-05-09T03:48:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gfting.dev/posts/</loc>
+    <lastmod>2019-05-09T03:48:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gfting.dev/tags/</loc>
+    <lastmod>2019-05-09T03:48:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gfting.dev/tags/untagged/</loc>
+    <lastmod>2019-05-09T03:48:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://gfting.dev/about/</loc>
     <lastmod>2019-04-13T14:43:50-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gfting.dev/</loc>
+    <loc>https://gfting.dev/tags/cs/</loc>
     <lastmod>2019-04-13T14:43:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gfting.dev/posts/</loc>
-    <lastmod>2019-04-13T14:33:37-05:00</lastmod>
+    <loc>https://gfting.dev/tags/about/</loc>
+    <lastmod>2019-04-13T14:43:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gfting.dev/tags/portfolio/</loc>
+    <lastmod>2019-04-13T14:43:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -31,11 +66,6 @@
   
   <url>
     <loc>https://gfting.dev/resume/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gfting.dev/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Gabriel Ting</title>
+    <link>https://gfting.dev/tags/untagged/</link>
+    <description>Recent content in untagged on Gabriel Ting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 09 May 2019 03:48:42 +0800</lastBuildDate>
+    
+	<atom:link href="https://gfting.dev/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Juni Posts</title>
+      <link>https://gfting.dev/posts/juni-posts/</link>
+      <pubDate>Thu, 09 May 2019 03:48:42 +0800</pubDate>
+      
+      <guid>https://gfting.dev/posts/juni-posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

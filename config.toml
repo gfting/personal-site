@@ -77,9 +77,9 @@ disableHugoGeneratorInject = false
   gitUrl = "https://github.com/gfting/personal-site/commit/"
 
   # Social icons
-  [[params.social]]
-    name = "email"
-    url  = "mailto:gt@gabrielting.com"
+  #[[params.social]]
+  #  name = "email"
+  #  url  = "mailto:gt@gabrielting.com"
 
   [[params.social]]
     name = "github"

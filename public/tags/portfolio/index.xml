@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Gabriel Ting</title>
-    <link>https://gfting.dev/posts/</link>
-    <description>Recent content in Posts on Gabriel Ting</description>
+    <title>portfolio on Gabriel Ting</title>
+    <link>https://gfting.dev/tags/portfolio/</link>
+    <description>Recent content in portfolio on Gabriel Ting</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 09 May 2019 03:48:42 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2019 14:43:50 -0500</lastBuildDate>
     
-	<atom:link href="https://gfting.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gfting.dev/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Juni Posts</title>
-      <link>https://gfting.dev/posts/juni-posts/</link>
-      <pubDate>Thu, 09 May 2019 03:48:42 +0800</pubDate>
+      <title>About</title>
+      <link>https://gfting.dev/about/</link>
+      <pubDate>Sat, 13 Apr 2019 14:43:50 -0500</pubDate>
       
-      <guid>https://gfting.dev/posts/juni-posts/</guid>
-      <description></description>
+      <guid>https://gfting.dev/about/</guid>
+      <description>Hi, I&amp;rsquo;m Gabriel Ting, a sophomore at Vanderbilt University triple majoring in Computer Science, Applied Mathematics, and Asian Studies. This is my blog, a space to put things that are an intersection of personal and professional interests. I built this blog with Hugo and Netlify–I still have my separate old porfolio site. As I move through my life, I hope that this will serve as a record for what I&amp;rsquo;ve done, places I&amp;rsquo;ve been, and what I hope to do.</description>
     </item>
     
     <item>
